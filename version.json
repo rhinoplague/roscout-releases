@@ -1,10 +1,10 @@
 {
-  "version": "1.8.0",
-  "published": "2026-11-18T23:30:00Z",
-  "download": "https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-1.8.0.zip",
+  "version": "1.8.1",
+  "published": "2026-11-18T23:11:50Z",
+  "download": "https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-1.8.1.zip",
   "notes": [
-    "RoScout now opens as a window right on Roblox, so you never leave the site",
-    "Open it from the RoScout entry in Roblox's left sidebar or the top bar",
-    "Drag, resize, maximize or minimize it to a small pill"
+    "Community pages: the RoScout card sits under the header instead of squeezed into the corner",
+    "Game and community pages start as a slim RoScout strip; click it for all stats",
+    "RoScout opens as a window right on Roblox (from 1.8.0)"
   ]
 }

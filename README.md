@@ -25,6 +25,7 @@ Your tracked games, playtime and settings are kept.
 
 | Version | Download |
 |---|---|
+| 1.8.1 | [roscout-1.8.1.zip](https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-1.8.1.zip) |
 | 1.8.0 | [roscout-1.8.0.zip](https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-1.8.0.zip) |
 | 1.7.0 | [roscout-1.7.0.zip](https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-1.7.0.zip) |
 
