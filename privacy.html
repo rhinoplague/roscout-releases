@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RoScout Privacy Policy</title>
+<style>
+  :root { --bg: #0f1115; --card: #151820; --line: #262b35; --text: #e9ecf1; --muted: #9aa1ae; --accent: #3ddc84; }
+  @media (prefers-color-scheme: light) { :root { --bg: #f6f7f9; --card: #fff; --line: #e3e6eb; --text: #14171c; --muted: #5d6573; --accent: #138a4c; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.6 "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; padding: 40px 16px 64px; }
+  main { max-width: 720px; margin: 0 auto; }
+  .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 18px; }
+  .logo { display: inline-flex; align-items: flex-end; gap: 2px; height: 18px; }
+  .logo i { width: 4px; background: var(--accent); border-radius: 1.5px; }
+  .logo i:nth-child(1) { height: 7px; opacity: .55; } .logo i:nth-child(2) { height: 12px; opacity: .8; } .logo i:nth-child(3) { height: 18px; }
+  h1 { font-size: 32px; line-height: 1.2; margin: 24px 0 4px; letter-spacing: -.01em; }
+  .updated { color: var(--muted); margin: 0 0 28px; }
+  h2 { font-size: 19px; margin: 32px 0 8px; }
+  p, li { color: var(--text); }
+  ul { padding-left: 22px; }
+  li { margin: 4px 0; }
+  .summary { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 20px; }
+  .summary li::marker { color: var(--accent); }
+  code { font-size: .92em; background: var(--card); border: 1px solid var(--line); border-radius: 5px; padding: 1px 5px; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <div class="brand"><span class="logo" aria-hidden="true"><i></i><i></i><i></i></span>RoScout</div>
+  <h1>Privacy Policy</h1>
+  <p class="updated">Last updated November 18, 2026</p>
+
+  <div class="summary">
+    <ul>
+      <li>RoScout has no servers of its own. It doesn't send your data to the developer or anyone else.</li>
+      <li>Everything RoScout records stays in your browser on your computer.</li>
+      <li>No analytics, no ads, no tracking, and nothing is sold.</li>
+    </ul>
+  </div>
+
+  <h2>What RoScout is</h2>
+  <p>RoScout is a Chrome extension that adds game statistics, revenue estimates, playtime tracking, a friends hub, community tools and a custom background to roblox.com. RoScout is not affiliated with or endorsed by Roblox Corporation.</p>
+
+  <h2>What RoScout reads</h2>
+  <ul>
+    <li><b>Public Roblox data</b>, such as a game's player count, visits, likes, game passes, badges, places, and public information about users and communities. This is read from Roblox's own servers (<code>*.roblox.com</code>).</li>
+    <li><b>Your Roblox account's view</b> while you're signed in to roblox.com: your user ID, your friends list and what your friends are playing, your communities, and which game you are playing. RoScout requests these from Roblox's servers with your existing Roblox session, the same way the Roblox website does. RoScout never sees or stores your password.</li>
+    <li><b>Images you choose</b> for a custom background. If you paste an image link, RoScout downloads that image from the address you gave.</li>
+  </ul>
+
+  <h2>What RoScout stores, and where</h2>
+  <p>RoScout keeps the following in your browser's extension storage on your computer:</p>
+  <ul>
+    <li>Stats history for games you choose to track, and daily summaries made from it</li>
+    <li>Your own playtime per game, used for "Your most played"</li>
+    <li>Which games your friends played and for how long (for "Friends are playing" and session times), and the friends you pinned</li>
+    <li>Your settings, your profile accent color, and your custom background image</li>
+  </ul>
+  <p>Your settings (not your history) are saved with Chrome's built-in settings sync (<code>chrome.storage.sync</code>). If you have Chrome sync turned on, Google syncs them between your own browsers under Google's privacy policy. Everything else stays on the computer it was recorded on.</p>
+
+  <h2>Who RoScout talks to</h2>
+  <ul>
+    <li><b>Roblox</b> (<code>*.roblox.com</code>, and Roblox's image servers) to read the data above.</li>
+    <li><b>GitHub</b> (<code>raw.githubusercontent.com</code>), only for copies of RoScout installed manually instead of from the Chrome Web Store, to check whether a newer version is available. This request contains no personal data.</li>
+    <li><b>An image address you paste</b>, only when you choose to use one as your background.</li>
+  </ul>
+  <p>RoScout sends nothing to the developer and uses no third-party analytics or advertising services.</p>
+
+  <h2>How to delete your data</h2>
+  <p>Remove RoScout from Chrome (<code>chrome://extensions</code> → Remove) and Chrome deletes everything RoScout stored. You can also remove tracked games, unpin friends or remove your background image at any time from the RoScout popup and dashboard.</p>
+
+  <h2>Children</h2>
+  <p>RoScout doesn't collect personal information from anyone, including children. It only shows information that Roblox already shows to the signed-in user.</p>
+
+  <h2>Changes</h2>
+  <p>If RoScout's data handling changes, this page will be updated and the date above will change.</p>
+
+  <h2>Contact</h2>
+  <p>Questions or requests: open an issue at <a href="https://github.com/rhinoplague/roscout-releases/issues">github.com/rhinoplague/roscout-releases/issues</a>.</p>
+</main>
+</body>
+</html>
