@@ -1,7 +1,7 @@
 {
   "version": "1.7.0",
   "published": "2026-11-18T22:45:00Z",
-  "download": "https://github.com/rhinoplague/roscout-releases/releases/download/v1.7.0/roscout-1.7.0.zip",
+  "download": "https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-1.7.0.zip",
   "notes": [
     "Update banner: RoScout tells you when a new version is out",
     "Your most played, live stats on game tiles and custom backgrounds (from 1.6.0)"

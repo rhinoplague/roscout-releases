@@ -5,7 +5,7 @@ custom backgrounds, right on roblox.com.
 
 ## Install
 
-1. Download the latest **roscout-x.y.z.zip** from [Releases](https://github.com/rhinoplague/roscout-releases/releases/latest).
+1. Download **[roscout-latest.zip](https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-latest.zip)** (every version is in [downloads/](downloads/)).
 2. Unzip it. You'll get a folder called `roscout`. Keep it somewhere it won't get deleted.
 3. Open `chrome://extensions` in Chrome and turn on **Developer mode** (top right).
 4. Click **Load unpacked** and pick the `roscout` folder.
@@ -20,6 +20,12 @@ When there's a new version, RoScout's toolbar popup shows an **Update available*
 3. In `chrome://extensions`, click the reload arrow on RoScout.
 
 Your tracked games, playtime and settings are kept.
+
+## Versions
+
+| Version | Download |
+|---|---|
+| 1.7.0 | [roscout-1.7.0.zip](https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-1.7.0.zip) |
 
 ## Privacy
 
