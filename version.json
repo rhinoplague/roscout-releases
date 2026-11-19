@@ -1,10 +1,12 @@
 {
-  "version": "1.9.0",
-  "published": "2026-11-19T02:06:57Z",
-  "download": "https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-1.9.0.zip",
+  "version": "2.0.0",
+  "published": "2026-11-19T02:42:44Z",
+  "download": "https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-2.0.0.zip",
   "notes": [
-    "New players chart in the style of Roblox's charts, with a peak label and scrubbing",
-    "Live mode updates the chart every 15 seconds, alongside 1D, 1W and All",
-    "The week heatmap moved into the Players menu under the chart"
+    "Rising games: the fastest-growing games on Roblox, filter by genre or keyword",
+    "Rivals: alerts when competitors update, change their icon, add a game pass or spike",
+    "Icon and thumbnail history with before and after, marked on the chart",
+    "Friend requests you send are tracked, with a notification when accepted",
+    "New chart style everywhere, plus settings sync and one-file backup"
   ]
 }
