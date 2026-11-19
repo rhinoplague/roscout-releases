@@ -1,10 +1,10 @@
 {
-  "version": "1.8.1",
-  "published": "2026-11-18T23:11:50Z",
-  "download": "https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-1.8.1.zip",
+  "version": "1.9.0",
+  "published": "2026-11-19T02:06:57Z",
+  "download": "https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-1.9.0.zip",
   "notes": [
-    "Community pages: the RoScout card sits under the header instead of squeezed into the corner",
-    "Game and community pages start as a slim RoScout strip; click it for all stats",
-    "RoScout opens as a window right on Roblox (from 1.8.0)"
+    "New players chart in the style of Roblox's charts, with a peak label and scrubbing",
+    "Live mode updates the chart every 15 seconds, alongside 1D, 1W and All",
+    "The week heatmap moved into the Players menu under the chart"
   ]
 }
