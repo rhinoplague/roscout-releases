@@ -1,12 +1,11 @@
 {
-  "version": "2.0.0",
-  "published": "2026-11-19T02:42:44Z",
-  "download": "https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-2.0.0.zip",
+  "version": "2.1.0",
+  "published": "2026-11-21T01:13:04Z",
+  "download": "https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-2.1.0.zip",
   "notes": [
-    "Rising games: the fastest-growing games on Roblox, filter by genre or keyword",
-    "Rivals: alerts when competitors update, change their icon, add a game pass or spike",
-    "Icon and thumbnail history with before and after, marked on the chart",
-    "Friend requests you send are tracked, with a notification when accepted",
-    "New chart style everywhere, plus settings sync and one-file backup"
+    "Live player counts for the top 100 games on Roblox's Charts page",
+    "Shared history: game pages show weeks of data even for games you never tracked",
+    "Rising games show growth straight away",
+    "Find friend requests you sent earlier, plus banners on profiles and your Friends page"
   ]
 }
