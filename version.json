@@ -1,11 +1,10 @@
 {
-  "version": "2.1.0",
-  "published": "2026-11-21T01:13:04Z",
-  "download": "https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-2.1.0.zip",
+  "version": "2.1.1",
+  "published": "2026-11-25T19:58:36Z",
+  "download": "https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-2.1.1.zip",
   "notes": [
-    "Live player counts for the top 100 games on Roblox's Charts page",
-    "Shared history: game pages show weeks of data even for games you never tracked",
-    "Rising games show growth straight away",
-    "Find friend requests you sent earlier, plus banners on profiles and your Friends page"
+    "Charts draw a line even when the data is spread out",
+    "Gaps in the data show as a faint dashed line",
+    "Time labels on 24-hour charts are back"
   ]
 }

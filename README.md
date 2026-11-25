@@ -25,6 +25,7 @@ Your tracked games, playtime and settings are kept.
 
 | Version | Download |
 |---|---|
+| 2.1.1 | [roscout-2.1.1.zip](https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-2.1.1.zip) |
 | 2.1.0 | [roscout-2.1.0.zip](https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-2.1.0.zip) |
 | 2.0.0 | [roscout-2.0.0.zip](https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-2.0.0.zip) |
 | 1.9.0 | [roscout-1.9.0.zip](https://github.com/rhinoplague/roscout-releases/raw/main/downloads/roscout-1.9.0.zip) |
